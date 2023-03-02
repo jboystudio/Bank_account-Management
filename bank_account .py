@@ -4,7 +4,7 @@
 #ii.The withdraw method return insufficient balance if account balance is less than amount to be withdrawn else it 
 #should return the amount that has been withdarwn.
 #iii.The check_balance method should print the current balance.
-#iv.The customer_details method should print customer name,account number,date of account openings and balance.
+
 
 class BankAccount:
     def __init__(self, balance=0):
